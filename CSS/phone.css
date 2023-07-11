@@ -1,0 +1,46 @@
+
+/* Navigation */
+#navbar{
+flex-direction: column;
+
+
+}
+
+/* home section */
+#home{
+    height: 451px;
+   
+}
+#home p{
+font-size: 13px;
+}
+#home ::before{
+    height: 480px;
+
+}
+
+
+/* shop section  */
+#shops{
+flex-direction: column;
+}
+#shops .box {
+    
+
+}
+/* Books sold section  */
+
+#soldbooks-section{
+overflow: hidden;
+}
+
+/* Contact us section  */
+
+/* Footer  */
+
+
+/* utility classes  */
+
+.h-primary{
+font-size: 16px;
+}
